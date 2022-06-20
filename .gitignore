@@ -12,11 +12,7 @@ out/
 *.aab
 
 # Gradle files
-.gradle
-gradle/wrapper/gradle.wrapper.jar
-build/
-gradlew*
-/app/release/
+
 
 # Signing files
 .signing/
